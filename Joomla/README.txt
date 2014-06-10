@@ -1,4 +1,5 @@
 test by me 2
+ki dloken ya
 1- What is this?
 	* This is a Joomla! installation/upgrade package to version 3.x
 	* Joomla! Official site: http://www.joomla.org
