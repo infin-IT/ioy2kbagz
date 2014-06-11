@@ -1,1 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+	<extension type="module" version="3.3.0" method="upgrade">
+		<name>Order List</name>
+		<author>infinit</author>
+		<version>1.0.0</version>
+		<description>This is the order list for eMenu by infinIT</description>
+		<files>
+			<filename>mod_orderlist.xml</filename>
+			<filename module="mod_orderlist">mod_orderlist.php</filename>
+		</files>
+		<config>
+		</config>
+	</extension>
