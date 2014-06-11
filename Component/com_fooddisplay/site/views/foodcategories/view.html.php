@@ -14,5 +14,9 @@ jimport('joomla.application.component.view');
 
 class FoodDisplayViewFoodCategories extends JViewLegacy
 {
-	
+	function display($tpl = NULL) {
+		$this->message = "oi juohnn";
+		
+		parent::display($tpl);
+	}
 }
