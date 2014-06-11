@@ -4,7 +4,7 @@
  * @package     com_fooddisplay
  * @copyright  2014
  * @license     
- * @author      infinIT
+ * @author      infinITi
  */
 
 
