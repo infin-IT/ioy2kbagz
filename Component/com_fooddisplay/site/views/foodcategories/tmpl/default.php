@@ -3,6 +3,7 @@
 ?>
 <h1>
 <?php 
-	echo($this->message);
+	echo $this->msg;
+	//echo 'woooooooooooalaaa';
 ?>
 </h1>

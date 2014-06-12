@@ -14,8 +14,14 @@ jimport('joomla.application.component.controller');
 
 class FoodDisplayController extends JControllerLegacy
 {
-	function display()
+	public function display()
 	{
-		
+		$view = $this->getView( 'foodcategories', 'html' );
+		$view->display();
+	}
+	
+	function dor()
+	{
+		echo 'halo';
 	}
 }
